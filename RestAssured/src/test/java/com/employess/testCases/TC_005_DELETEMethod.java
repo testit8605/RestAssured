@@ -21,8 +21,6 @@ public class TC_005_DELETEMethod extends TestBase
 		
 //		response = httpRequest.request(Method.GET,"/employees");
 
-
-		//This is local changes
 		
 		Thread.sleep(3000);
 		
