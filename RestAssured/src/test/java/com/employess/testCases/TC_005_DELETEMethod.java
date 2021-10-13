@@ -20,8 +20,8 @@ public class TC_005_DELETEMethod extends TestBase
 		httpRequest = RestAssured.given();
 		
 //		response = httpRequest.request(Method.GET,"/employees");
-		////
-		///
+
+
 		
 		Thread.sleep(3000);
 		
