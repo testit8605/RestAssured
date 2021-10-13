@@ -1,0 +1,1396 @@
+2021-10-13 13:20:36,226 [main] INFO EmployessRestAPI - **********************Started TC_001_GETMethod**********************
+2021-10-13 13:20:41,833 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 13:20:41,835 [main] INFO EmployessRestAPI - Status Line==>>application/json; charset=utf-8
+2021-10-13 13:20:41,847 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 13:20:41,880 [main] INFO EmployessRestAPI - Response Body==>>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2021-10-13 13:20:41,895 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 13:20:41,896 [main] INFO EmployessRestAPI - Status Line==>>1318
+2021-10-13 13:20:41,902 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 13:20:41,903 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 13:20:41,907 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 13:20:41,908 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 13:20:41,911 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 13:20:41,911 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 13:20:41,914 [main] INFO EmployessRestAPI - **********************Checking x-powered-by Type**********************
+2021-10-13 13:20:41,914 [main] INFO EmployessRestAPI - Status Line==>>Express
+2021-10-13 13:20:41,916 [main] INFO EmployessRestAPI - **********************Finished TC_001_GETMethod**********************
+2021-10-13 13:35:34,856 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 13:35:34,862 [main] INFO EmployessRestAPI - Status Line==>>application/json; charset=utf-8
+2021-10-13 13:35:34,871 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 13:35:34,900 [main] INFO EmployessRestAPI - Response Body==>>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2021-10-13 13:35:34,904 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 13:35:34,905 [main] INFO EmployessRestAPI - Status Line==>>1142
+2021-10-13 13:35:34,909 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 13:35:34,910 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 13:35:34,914 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 13:35:34,914 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 13:35:34,918 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 13:35:34,918 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 13:35:34,922 [main] INFO EmployessRestAPI - **********************Checking x-powered-by Type**********************
+2021-10-13 13:35:34,922 [main] INFO EmployessRestAPI - Status Line==>>Express
+2021-10-13 13:35:34,926 [main] INFO EmployessRestAPI - **********************Finished TC_001_GETMethod**********************
+2021-10-13 14:16:15,624 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 14:16:15,631 [main] INFO EmployessRestAPI - Status Line==>>application/json; charset=utf-8
+2021-10-13 14:16:15,639 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 14:16:15,668 [main] INFO EmployessRestAPI - Response Body==>>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2021-10-13 14:16:15,673 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 14:16:15,674 [main] INFO EmployessRestAPI - Status Line==>>1427
+2021-10-13 14:16:15,677 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 14:16:15,677 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 14:16:15,681 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 14:16:15,681 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 14:16:15,683 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 14:16:15,685 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 14:16:15,691 [main] INFO EmployessRestAPI - **********************Checking x-powered-by Type**********************
+2021-10-13 14:16:15,692 [main] INFO EmployessRestAPI - Status Line==>>Express
+2021-10-13 14:16:15,696 [main] INFO EmployessRestAPI - **********************Finished TC_001_GETMethod**********************
+2021-10-13 14:29:32,071 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 14:29:32,090 [main] INFO EmployessRestAPI - Response Body==>>{"status":"success","data":{"name":"AkshayfOOcM","salary":"9912","age":"83","id":8847},"message":"Successfully! Record has been added."}
+2021-10-13 14:37:11,687 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 14:37:11,694 [main] INFO EmployessRestAPI - Status Line==>>application/json
+2021-10-13 14:37:11,704 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 14:37:11,720 [main] INFO EmployessRestAPI - Response Body==>>{"status":"success","data":{"name":"AkshayTQOUE","salary":"3484","age":"49","id":7629},"message":"Successfully! Record has been added."}
+2021-10-13 14:37:11,724 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 14:37:11,724 [main] INFO EmployessRestAPI - Status Line==>>1946
+2021-10-13 14:37:11,729 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 14:37:11,729 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 14:37:11,735 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 14:37:11,735 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 14:37:11,739 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 14:37:11,740 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 14:37:11,744 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 14:37:11,746 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 14:37:42,901 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 14:37:42,906 [main] INFO EmployessRestAPI - Status Line==>>application/json
+2021-10-13 14:37:42,914 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 14:37:42,925 [main] INFO EmployessRestAPI - Response Body==>>{"status":"success","data":{"name":"AkshayGzpka","salary":"2836","age":"92","id":3080},"message":"Successfully! Record has been added."}
+2021-10-13 14:37:42,928 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 14:37:42,929 [main] INFO EmployessRestAPI - Status Line==>>1640
+2021-10-13 14:37:42,933 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 14:37:42,934 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 14:37:42,937 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 14:37:42,938 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 14:37:42,944 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 14:37:42,945 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 14:37:42,949 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 14:37:42,950 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 15:22:11,551 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 15:22:11,559 [main] INFO EmployessRestAPI - Status Line==>>application/json; charset=utf-8
+2021-10-13 15:22:11,574 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 15:22:11,619 [main] INFO EmployessRestAPI - Response Body==>>{}
+2021-10-13 15:22:11,628 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 15:22:11,628 [main] INFO EmployessRestAPI - Status Line==>>2006
+2021-10-13 15:22:11,635 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 15:22:11,636 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 15:22:11,641 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:22:11,642 [main] INFO EmployessRestAPI - Status Code==>>404
+2021-10-13 15:22:11,650 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 15:22:11,651 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 404 Not Found
+2021-10-13 15:22:11,657 [main] INFO EmployessRestAPI - **********************Checking x-powered-by Type**********************
+2021-10-13 15:22:11,658 [main] INFO EmployessRestAPI - Status Line==>>Express
+2021-10-13 15:22:11,663 [main] INFO EmployessRestAPI - **********************Finished TC_001_GETMethod**********************
+2021-10-13 15:23:43,155 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 15:23:43,161 [main] INFO EmployessRestAPI - Status Line==>>application/json; charset=utf-8
+2021-10-13 15:23:43,168 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 15:23:43,195 [main] INFO EmployessRestAPI - Response Body==>>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2021-10-13 15:23:43,200 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 15:23:43,201 [main] INFO EmployessRestAPI - Status Line==>>1016
+2021-10-13 15:23:43,204 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 15:23:43,204 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 15:23:43,207 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:23:43,208 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 15:23:43,211 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 15:23:43,211 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 15:23:43,213 [main] INFO EmployessRestAPI - **********************Checking x-powered-by Type**********************
+2021-10-13 15:23:43,213 [main] INFO EmployessRestAPI - Status Line==>>Express
+2021-10-13 15:23:43,215 [main] INFO EmployessRestAPI - **********************Finished TC_001_GETMethod**********************
+2021-10-13 15:24:42,114 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 15:24:42,121 [main] INFO EmployessRestAPI - Status Line==>>application/json
+2021-10-13 15:24:42,129 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 15:24:42,144 [main] INFO EmployessRestAPI - Response Body==>>{"status":"success","data":{"name":"AkshayvWfVS","salary":"9094","age":"14"},"message":"Successfully! Record has been updated."}
+2021-10-13 15:24:42,150 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 15:24:42,151 [main] INFO EmployessRestAPI - Status Line==>>1691
+2021-10-13 15:24:42,156 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 15:24:42,157 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 15:24:42,162 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:24:42,163 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 15:24:42,166 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 15:24:42,166 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 15:24:42,170 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 15:24:42,170 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 15:27:56,584 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 15:27:56,591 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 15:27:56,603 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 15:27:56,617 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2021-10-13 15:27:56,622 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:27:56,718 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 15:27:56,719 [main] INFO EmployessRestAPI - Status Line==>>2253
+2021-10-13 15:27:56,724 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 15:27:56,724 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 15:27:56,728 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:27:56,729 [main] INFO EmployessRestAPI - Status Code==>>429
+2021-10-13 15:27:56,735 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 15:27:56,735 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 429 Too Many Requests
+2021-10-13 15:27:56,739 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 15:27:56,740 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 15:28:43,903 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 15:28:43,908 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 15:28:43,918 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 15:28:43,931 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2021-10-13 15:28:43,937 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:28:44,028 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 15:28:44,029 [main] INFO EmployessRestAPI - Status Line==>>1845
+2021-10-13 15:28:44,032 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 15:28:44,033 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 15:28:44,036 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:28:44,037 [main] INFO EmployessRestAPI - Status Code==>>429
+2021-10-13 15:28:44,042 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 15:28:44,043 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 429 Too Many Requests
+2021-10-13 15:28:44,047 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 15:28:44,047 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 15:29:03,713 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 15:29:03,719 [main] INFO EmployessRestAPI - Status Line==>>application/json
+2021-10-13 15:29:03,729 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 15:29:03,742 [main] INFO EmployessRestAPI - Response Body==>>{"status":"success","data":{"name":"AkshayBHMNg","salary":"9016","age":"20"},"message":"Successfully! Record has been updated."}
+2021-10-13 15:29:03,747 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:29:04,388 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 15:29:04,389 [main] INFO EmployessRestAPI - Status Line==>>1779
+2021-10-13 15:29:04,393 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 15:29:04,394 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 15:29:04,399 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:29:04,399 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 15:29:04,404 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 15:29:04,405 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 15:29:04,408 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 15:29:04,409 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 15:29:59,630 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 15:29:59,634 [main] INFO EmployessRestAPI - Status Line==>>application/json
+2021-10-13 15:29:59,642 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 15:29:59,655 [main] INFO EmployessRestAPI - Response Body==>>{"status":"success","data":{"salary":"5761","age":"77"},"message":"Successfully! Record has been updated."}
+2021-10-13 15:29:59,663 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:30:00,379 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 15:30:00,381 [main] INFO EmployessRestAPI - Status Line==>>2249
+2021-10-13 15:30:00,385 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 15:30:00,386 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 15:30:00,391 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:30:00,391 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 15:30:00,396 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 15:30:00,396 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 15:30:00,400 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 15:30:00,401 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 15:31:02,107 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 15:31:02,113 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 15:31:02,121 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 15:31:02,132 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2021-10-13 15:31:02,138 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:31:02,216 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 15:31:02,217 [main] INFO EmployessRestAPI - Status Line==>>2018
+2021-10-13 15:31:02,221 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 15:31:02,222 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 15:31:02,226 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:31:02,226 [main] INFO EmployessRestAPI - Status Code==>>429
+2021-10-13 15:31:02,233 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 15:31:02,233 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 429 Too Many Requests
+2021-10-13 15:31:02,238 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 15:31:02,239 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 15:31:20,725 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 15:31:20,732 [main] INFO EmployessRestAPI - Status Line==>>application/json
+2021-10-13 15:31:20,745 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 15:31:20,755 [main] INFO EmployessRestAPI - Response Body==>>{"status":"success","data":{"name":"AkshaytrPkG","salary":"8656","age":"21"},"message":"Successfully! Record has been updated."}
+2021-10-13 15:31:20,758 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:31:21,411 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 15:31:21,412 [main] INFO EmployessRestAPI - Status Line==>>1965
+2021-10-13 15:31:21,416 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 15:31:21,417 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 15:31:21,420 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:31:21,421 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 15:31:21,426 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 15:31:21,426 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 15:31:21,430 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 15:31:21,431 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 15:33:26,479 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 15:33:26,485 [main] INFO EmployessRestAPI - Status Line==>>application/json
+2021-10-13 15:33:26,494 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 15:33:26,505 [main] INFO EmployessRestAPI - Response Body==>>{"status":"success","data":{"name":"AkshayZXibG","salary":"1232","age":"17"},"message":"Successfully! Record has been updated."}
+2021-10-13 15:33:26,508 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:33:27,088 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 15:33:27,090 [main] INFO EmployessRestAPI - Status Line==>>2155
+2021-10-13 15:33:27,094 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 15:33:27,094 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 15:33:27,098 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:33:27,099 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 15:33:27,103 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 15:33:27,104 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 15:33:27,108 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 15:33:27,109 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 15:33:47,268 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 15:33:47,273 [main] INFO EmployessRestAPI - Status Line==>>application/json
+2021-10-13 15:33:47,282 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 15:33:47,298 [main] INFO EmployessRestAPI - Response Body==>>{"status":"success","data":{"name":"AkshaydYpkf","salary":"4325","age":"88"},"message":"Successfully! Record has been updated."}
+2021-10-13 15:33:47,302 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:33:47,955 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 15:33:47,956 [main] INFO EmployessRestAPI - Status Line==>>1815
+2021-10-13 15:33:47,960 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 15:33:47,961 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 15:33:47,966 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:33:47,966 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 15:33:47,972 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 15:33:47,973 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 15:33:47,977 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 15:33:47,977 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 15:53:09,198 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 15:53:09,204 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 15:53:09,223 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 15:53:09,227 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }
+.container { margin: 30px; max-width: 600px; }
+h1 { color: #dc3545; font-size: 24px; }
+h2 { font-size: 18px; }</style>
+</head>
+<body>
+<div class="container">
+    <h1>Oops! An Error Occurred</h1>
+    <h2>The server returned a "405 Method Not Allowed".</h2>
+
+    <p>
+        Something is broken. Please let us know what you were doing when this error occurred.
+        We will fix it as soon as possible. Sorry for any inconvenience caused.
+    </p>
+</div>
+</body>
+</html>
+2021-10-13 15:53:09,233 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 15:53:09,233 [main] INFO EmployessRestAPI - Status Line==>>1082
+2021-10-13 15:53:09,238 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 15:53:09,239 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 15:53:09,244 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:53:09,244 [main] INFO EmployessRestAPI - Status Code==>>405
+2021-10-13 15:53:09,249 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 15:53:09,250 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 405 Method Not Allowed
+2021-10-13 15:53:09,254 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 15:53:09,255 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 15:54:39,138 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 15:54:39,145 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 15:54:39,160 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 15:54:39,182 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }
+.container { margin: 30px; max-width: 600px; }
+h1 { color: #dc3545; font-size: 24px; }
+h2 { font-size: 18px; }</style>
+</head>
+<body>
+<div class="container">
+    <h1>Oops! An Error Occurred</h1>
+    <h2>The server returned a "405 Method Not Allowed".</h2>
+
+    <p>
+        Something is broken. Please let us know what you were doing when this error occurred.
+        We will fix it as soon as possible. Sorry for any inconvenience caused.
+    </p>
+</div>
+</body>
+</html>
+2021-10-13 15:54:39,186 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 15:54:39,187 [main] INFO EmployessRestAPI - Status Line==>>993
+2021-10-13 15:54:39,190 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 15:54:39,190 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 15:54:39,193 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:54:39,193 [main] INFO EmployessRestAPI - Status Code==>>405
+2021-10-13 15:54:39,196 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 15:54:39,197 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 405 Method Not Allowed
+2021-10-13 15:54:39,200 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 15:54:39,201 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 15:58:56,121 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 15:58:56,129 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 15:58:56,142 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 15:58:56,180 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }
+.container { margin: 30px; max-width: 600px; }
+h1 { color: #dc3545; font-size: 24px; }
+h2 { font-size: 18px; }</style>
+</head>
+<body>
+<div class="container">
+    <h1>Oops! An Error Occurred</h1>
+    <h2>The server returned a "405 Method Not Allowed".</h2>
+
+    <p>
+        Something is broken. Please let us know what you were doing when this error occurred.
+        We will fix it as soon as possible. Sorry for any inconvenience caused.
+    </p>
+</div>
+</body>
+</html>
+2021-10-13 15:58:56,189 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 15:58:56,191 [main] INFO EmployessRestAPI - Status Line==>>1951
+2021-10-13 15:58:56,196 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 15:58:56,197 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 15:58:56,202 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 15:58:56,203 [main] INFO EmployessRestAPI - Status Code==>>405
+2021-10-13 15:58:56,209 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 15:58:56,209 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 405 Method Not Allowed
+2021-10-13 15:58:56,215 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 15:58:56,220 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 16:00:48,643 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 16:00:48,652 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 16:00:48,663 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 16:00:48,706 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }
+.container { margin: 30px; max-width: 600px; }
+h1 { color: #dc3545; font-size: 24px; }
+h2 { font-size: 18px; }</style>
+</head>
+<body>
+<div class="container">
+    <h1>Oops! An Error Occurred</h1>
+    <h2>The server returned a "405 Method Not Allowed".</h2>
+
+    <p>
+        Something is broken. Please let us know what you were doing when this error occurred.
+        We will fix it as soon as possible. Sorry for any inconvenience caused.
+    </p>
+</div>
+</body>
+</html>
+2021-10-13 16:00:48,714 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 16:00:48,715 [main] INFO EmployessRestAPI - Status Line==>>1930
+2021-10-13 16:00:48,718 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 16:00:48,719 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 16:00:48,723 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 16:00:48,724 [main] INFO EmployessRestAPI - Status Code==>>405
+2021-10-13 16:00:48,727 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 16:00:48,729 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 405 Method Not Allowed
+2021-10-13 16:02:12,270 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 16:02:12,279 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 16:02:12,293 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 16:02:12,310 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }
+.container { margin: 30px; max-width: 600px; }
+h1 { color: #dc3545; font-size: 24px; }
+h2 { font-size: 18px; }</style>
+</head>
+<body>
+<div class="container">
+    <h1>Oops! An Error Occurred</h1>
+    <h2>The server returned a "405 Method Not Allowed".</h2>
+
+    <p>
+        Something is broken. Please let us know what you were doing when this error occurred.
+        We will fix it as soon as possible. Sorry for any inconvenience caused.
+    </p>
+</div>
+</body>
+</html>
+2021-10-13 16:02:12,316 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 16:02:12,317 [main] INFO EmployessRestAPI - Status Line==>>1762
+2021-10-13 16:02:12,322 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 16:02:12,323 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 16:02:12,327 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 16:02:12,328 [main] INFO EmployessRestAPI - Status Code==>>405
+2021-10-13 16:02:12,332 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 16:02:12,333 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 405 Method Not Allowed
+2021-10-13 16:05:45,497 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 16:05:45,503 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 16:05:45,519 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 16:05:45,538 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }
+.container { margin: 30px; max-width: 600px; }
+h1 { color: #dc3545; font-size: 24px; }
+h2 { font-size: 18px; }</style>
+</head>
+<body>
+<div class="container">
+    <h1>Oops! An Error Occurred</h1>
+    <h2>The server returned a "405 Method Not Allowed".</h2>
+
+    <p>
+        Something is broken. Please let us know what you were doing when this error occurred.
+        We will fix it as soon as possible. Sorry for any inconvenience caused.
+    </p>
+</div>
+</body>
+</html>
+2021-10-13 16:05:45,542 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 16:05:45,543 [main] INFO EmployessRestAPI - Status Line==>>1875
+2021-10-13 16:05:45,546 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 16:05:45,547 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 16:05:45,551 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 16:05:45,551 [main] INFO EmployessRestAPI - Status Code==>>405
+2021-10-13 16:05:45,557 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 16:05:45,558 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 405 Method Not Allowed
+2021-10-13 16:06:07,608 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 16:06:07,614 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 16:06:07,632 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 16:06:07,650 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }
+.container { margin: 30px; max-width: 600px; }
+h1 { color: #dc3545; font-size: 24px; }
+h2 { font-size: 18px; }</style>
+</head>
+<body>
+<div class="container">
+    <h1>Oops! An Error Occurred</h1>
+    <h2>The server returned a "405 Method Not Allowed".</h2>
+
+    <p>
+        Something is broken. Please let us know what you were doing when this error occurred.
+        We will fix it as soon as possible. Sorry for any inconvenience caused.
+    </p>
+</div>
+</body>
+</html>
+2021-10-13 16:06:07,655 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 16:06:07,656 [main] INFO EmployessRestAPI - Status Line==>>1921
+2021-10-13 16:06:07,661 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 16:06:07,661 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 16:06:07,666 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 16:06:07,667 [main] INFO EmployessRestAPI - Status Code==>>405
+2021-10-13 16:06:07,671 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 16:06:07,672 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 405 Method Not Allowed
+2021-10-13 16:06:22,770 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 16:06:22,778 [main] INFO EmployessRestAPI - Status Line==>>application/json; charset=utf-8
+2021-10-13 16:06:22,787 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 16:06:22,817 [main] INFO EmployessRestAPI - Response Body==>>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2021-10-13 16:06:22,822 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 16:06:22,823 [main] INFO EmployessRestAPI - Status Line==>>1209
+2021-10-13 16:06:22,827 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 16:06:22,828 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 16:06:22,831 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 16:06:22,832 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 16:06:22,836 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 16:06:22,836 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 16:06:22,839 [main] INFO EmployessRestAPI - **********************Checking x-powered-by Type**********************
+2021-10-13 16:06:22,839 [main] INFO EmployessRestAPI - Status Line==>>Express
+2021-10-13 16:06:22,842 [main] INFO EmployessRestAPI - **********************Finished TC_001_GETMethod**********************
+2021-10-13 16:06:27,045 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 16:06:27,049 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 16:06:27,058 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 16:06:27,059 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2021-10-13 16:06:27,064 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 16:06:27,065 [main] INFO EmployessRestAPI - Status Line==>>1178
+2021-10-13 16:06:27,067 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 16:06:27,068 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 16:06:27,070 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 16:06:27,070 [main] INFO EmployessRestAPI - Status Code==>>429
+2021-10-13 16:06:27,075 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 16:06:27,076 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 429 Too Many Requests
+2021-10-13 16:06:27,081 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 16:06:27,081 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 16:06:34,239 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 16:06:34,240 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 16:06:34,245 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 16:06:34,247 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }
+.container { margin: 30px; max-width: 600px; }
+h1 { color: #dc3545; font-size: 24px; }
+h2 { font-size: 18px; }</style>
+</head>
+<body>
+<div class="container">
+    <h1>Oops! An Error Occurred</h1>
+    <h2>The server returned a "405 Method Not Allowed".</h2>
+
+    <p>
+        Something is broken. Please let us know what you were doing when this error occurred.
+        We will fix it as soon as possible. Sorry for any inconvenience caused.
+    </p>
+</div>
+</body>
+</html>
+2021-10-13 16:06:34,251 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 16:06:34,252 [main] INFO EmployessRestAPI - Status Line==>>1139
+2021-10-13 16:06:34,254 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 16:06:34,254 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 16:06:34,257 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 16:06:34,257 [main] INFO EmployessRestAPI - Status Code==>>405
+2021-10-13 16:06:34,260 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 16:06:34,261 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 405 Method Not Allowed
+2021-10-13 16:06:40,400 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 16:06:40,401 [main] INFO EmployessRestAPI - Status Line==>>application/json
+2021-10-13 16:06:40,404 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 16:06:40,406 [main] INFO EmployessRestAPI - Response Body==>>{"status":"success","data":{"name":"AkshayNaAcQ","salary":"7486","age":"71"},"message":"Successfully! Record has been updated."}
+2021-10-13 16:06:40,409 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 16:06:40,410 [main] INFO EmployessRestAPI - Status Line==>>1118
+2021-10-13 16:06:40,414 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 16:06:40,415 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 16:06:40,418 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 16:06:40,419 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 16:06:40,420 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 16:06:40,421 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 16:06:40,422 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 16:06:40,423 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 16:06:40,430 [main] INFO EmployessRestAPI - **********************Started TC_001_GETMethod**********************
+2021-10-13 16:06:43,743 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 16:06:43,745 [main] INFO EmployessRestAPI - Status Line==>>application/json; charset=utf-8
+2021-10-13 16:06:43,748 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 16:06:43,750 [main] INFO EmployessRestAPI - Response Body==>>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2021-10-13 16:06:43,752 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 16:06:43,753 [main] INFO EmployessRestAPI - Status Line==>>306
+2021-10-13 16:06:43,757 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 16:06:43,757 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 16:06:43,760 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 16:06:43,761 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 16:06:43,762 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 16:06:43,763 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 16:06:43,764 [main] INFO EmployessRestAPI - **********************Checking x-powered-by Type**********************
+2021-10-13 16:06:43,764 [main] INFO EmployessRestAPI - Status Line==>>Express
+2021-10-13 16:06:43,765 [main] INFO EmployessRestAPI - **********************Finished TC_001_GETMethod**********************
+2021-10-13 20:59:17,594 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 20:59:17,602 [main] INFO EmployessRestAPI - Status Line==>>application/json; charset=utf-8
+2021-10-13 20:59:17,629 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 20:59:17,654 [main] INFO EmployessRestAPI - Response Body==>>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2021-10-13 20:59:17,659 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 20:59:17,659 [main] INFO EmployessRestAPI - Status Line==>>1322
+2021-10-13 20:59:17,662 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 20:59:17,663 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 20:59:17,666 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 20:59:17,667 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 20:59:17,670 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 20:59:17,671 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 20:59:17,674 [main] INFO EmployessRestAPI - **********************Checking x-powered-by Type**********************
+2021-10-13 20:59:17,675 [main] INFO EmployessRestAPI - Status Line==>>Express
+2021-10-13 20:59:17,678 [main] INFO EmployessRestAPI - **********************Finished TC_001_GETMethod**********************
+2021-10-13 20:59:22,069 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 20:59:22,072 [main] INFO EmployessRestAPI - Status Line==>>application/json
+2021-10-13 20:59:22,077 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 20:59:22,079 [main] INFO EmployessRestAPI - Response Body==>>{"status":"success","data":{"name":"AkshaymPuEy","salary":"9688","age":"12","id":2427},"message":"Successfully! Record has been added."}
+2021-10-13 20:59:22,082 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 20:59:22,082 [main] INFO EmployessRestAPI - Status Line==>>1367
+2021-10-13 20:59:22,087 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 20:59:22,087 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 20:59:22,091 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 20:59:22,091 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 20:59:22,094 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 20:59:22,094 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 20:59:22,097 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 20:59:22,097 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 20:59:29,262 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 20:59:29,263 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 20:59:29,269 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 20:59:29,270 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }
+.container { margin: 30px; max-width: 600px; }
+h1 { color: #dc3545; font-size: 24px; }
+h2 { font-size: 18px; }</style>
+</head>
+<body>
+<div class="container">
+    <h1>Oops! An Error Occurred</h1>
+    <h2>The server returned a "405 Method Not Allowed".</h2>
+
+    <p>
+        Something is broken. Please let us know what you were doing when this error occurred.
+        We will fix it as soon as possible. Sorry for any inconvenience caused.
+    </p>
+</div>
+</body>
+</html>
+2021-10-13 20:59:29,276 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 20:59:29,277 [main] INFO EmployessRestAPI - Status Line==>>1145
+2021-10-13 20:59:29,280 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 20:59:29,281 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 20:59:29,284 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 20:59:29,284 [main] INFO EmployessRestAPI - Status Code==>>405
+2021-10-13 20:59:29,288 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 20:59:29,289 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 405 Method Not Allowed
+2021-10-13 20:59:34,055 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 20:59:34,060 [main] INFO EmployessRestAPI - Status Line==>>application/json; charset=utf-8
+2021-10-13 20:59:34,082 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 20:59:34,108 [main] INFO EmployessRestAPI - Response Body==>>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2021-10-13 20:59:34,113 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 20:59:34,114 [main] INFO EmployessRestAPI - Status Line==>>1184
+2021-10-13 20:59:34,119 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 20:59:34,119 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 20:59:34,122 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 20:59:34,123 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 20:59:34,127 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 20:59:34,127 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 20:59:34,132 [main] INFO EmployessRestAPI - **********************Checking x-powered-by Type**********************
+2021-10-13 20:59:34,132 [main] INFO EmployessRestAPI - Status Line==>>Express
+2021-10-13 20:59:34,136 [main] INFO EmployessRestAPI - **********************Finished TC_001_GETMethod**********************
+2021-10-13 20:59:35,290 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 20:59:35,291 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 20:59:35,296 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 20:59:35,297 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2021-10-13 20:59:35,302 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 20:59:35,303 [main] INFO EmployessRestAPI - Status Line==>>982
+2021-10-13 20:59:35,307 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 20:59:35,308 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 20:59:35,313 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 20:59:35,314 [main] INFO EmployessRestAPI - Status Code==>>429
+2021-10-13 20:59:35,320 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 20:59:35,320 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 429 Too Many Requests
+2021-10-13 20:59:35,326 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 20:59:35,327 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 20:59:35,336 [main] INFO EmployessRestAPI - **********************Started TC_001_GETMethod**********************
+2021-10-13 20:59:38,238 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 20:59:38,240 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 20:59:38,245 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 20:59:38,246 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2021-10-13 20:59:38,251 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 20:59:38,252 [main] INFO EmployessRestAPI - Status Line==>>1081
+2021-10-13 20:59:38,256 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 20:59:38,258 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 20:59:38,260 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 20:59:38,261 [main] INFO EmployessRestAPI - Status Code==>>429
+2021-10-13 20:59:38,266 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 20:59:38,266 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 429 Too Many Requests
+2021-10-13 20:59:38,271 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 20:59:38,271 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 20:59:38,716 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 20:59:38,717 [main] INFO EmployessRestAPI - Status Line==>>application/json; charset=utf-8
+2021-10-13 20:59:38,721 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 20:59:38,722 [main] INFO EmployessRestAPI - Response Body==>>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2021-10-13 20:59:38,726 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 20:59:38,727 [main] INFO EmployessRestAPI - Status Line==>>372
+2021-10-13 20:59:38,730 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 20:59:38,731 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 20:59:38,734 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 20:59:38,735 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 20:59:38,738 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 20:59:38,738 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 20:59:38,741 [main] INFO EmployessRestAPI - **********************Checking x-powered-by Type**********************
+2021-10-13 20:59:38,741 [main] INFO EmployessRestAPI - Status Line==>>Express
+2021-10-13 20:59:38,744 [main] INFO EmployessRestAPI - **********************Finished TC_001_GETMethod**********************
+2021-10-13 20:59:45,490 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 20:59:45,491 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 20:59:45,496 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 20:59:45,497 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }
+.container { margin: 30px; max-width: 600px; }
+h1 { color: #dc3545; font-size: 24px; }
+h2 { font-size: 18px; }</style>
+</head>
+<body>
+<div class="container">
+    <h1>Oops! An Error Occurred</h1>
+    <h2>The server returned a "405 Method Not Allowed".</h2>
+
+    <p>
+        Something is broken. Please let us know what you were doing when this error occurred.
+        We will fix it as soon as possible. Sorry for any inconvenience caused.
+    </p>
+</div>
+</body>
+</html>
+2021-10-13 20:59:45,500 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 20:59:45,500 [main] INFO EmployessRestAPI - Status Line==>>1195
+2021-10-13 20:59:45,502 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 20:59:45,502 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 20:59:45,505 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 20:59:45,506 [main] INFO EmployessRestAPI - Status Code==>>405
+2021-10-13 20:59:45,511 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 20:59:45,512 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 405 Method Not Allowed
+2021-10-13 20:59:51,741 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 20:59:51,742 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 20:59:51,746 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 20:59:51,748 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2021-10-13 20:59:51,753 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 20:59:51,753 [main] INFO EmployessRestAPI - Status Line==>>1205
+2021-10-13 20:59:51,756 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 20:59:51,757 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 20:59:51,759 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 20:59:51,759 [main] INFO EmployessRestAPI - Status Code==>>429
+2021-10-13 20:59:51,764 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 20:59:51,764 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 429 Too Many Requests
+2021-10-13 20:59:51,770 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 20:59:51,771 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 20:59:51,780 [main] INFO EmployessRestAPI - **********************Started TC_001_GETMethod**********************
+2021-10-13 20:59:55,047 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 20:59:55,048 [main] INFO EmployessRestAPI - Status Line==>>application/json; charset=utf-8
+2021-10-13 20:59:55,051 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 20:59:55,052 [main] INFO EmployessRestAPI - Response Body==>>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2021-10-13 20:59:55,054 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 20:59:55,054 [main] INFO EmployessRestAPI - Status Line==>>259
+2021-10-13 20:59:55,058 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 20:59:55,059 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 20:59:55,062 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 20:59:55,063 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 20:59:55,066 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 20:59:55,067 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 20:59:55,071 [main] INFO EmployessRestAPI - **********************Checking x-powered-by Type**********************
+2021-10-13 20:59:55,071 [main] INFO EmployessRestAPI - Status Line==>>Express
+2021-10-13 20:59:55,074 [main] INFO EmployessRestAPI - **********************Finished TC_001_GETMethod**********************
+2021-10-13 21:04:03,819 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 21:04:03,826 [main] INFO EmployessRestAPI - Status Line==>>application/json; charset=utf-8
+2021-10-13 21:04:03,851 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 21:04:03,884 [main] INFO EmployessRestAPI - Response Body==>>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2021-10-13 21:04:03,886 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 21:04:03,886 [main] INFO EmployessRestAPI - Status Line==>>1125
+2021-10-13 21:04:03,888 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 21:04:03,888 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 21:04:03,890 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 21:04:03,890 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 21:04:03,891 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 21:04:03,892 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 21:04:03,893 [main] INFO EmployessRestAPI - **********************Checking x-powered-by Type**********************
+2021-10-13 21:04:03,894 [main] INFO EmployessRestAPI - Status Line==>>Express
+2021-10-13 21:04:03,896 [main] INFO EmployessRestAPI - **********************Finished TC_001_GETMethod**********************
+2021-10-13 21:04:08,561 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 21:04:08,565 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 21:04:08,574 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 21:04:08,576 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2021-10-13 21:04:08,580 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 21:04:08,581 [main] INFO EmployessRestAPI - Status Line==>>1647
+2021-10-13 21:04:08,583 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 21:04:08,583 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 21:04:08,585 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 21:04:08,586 [main] INFO EmployessRestAPI - Status Code==>>429
+2021-10-13 21:04:08,589 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 21:04:08,590 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 429 Too Many Requests
+2021-10-13 21:04:08,594 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 21:04:08,595 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 21:04:15,661 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 21:04:15,662 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 21:04:15,665 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 21:04:15,667 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,nofollow,noarchive" />
+    <title>An Error Occurred: Method Not Allowed</title>
+    <style>body { background-color: #fff; color: #222; font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; }
+.container { margin: 30px; max-width: 600px; }
+h1 { color: #dc3545; font-size: 24px; }
+h2 { font-size: 18px; }</style>
+</head>
+<body>
+<div class="container">
+    <h1>Oops! An Error Occurred</h1>
+    <h2>The server returned a "405 Method Not Allowed".</h2>
+
+    <p>
+        Something is broken. Please let us know what you were doing when this error occurred.
+        We will fix it as soon as possible. Sorry for any inconvenience caused.
+    </p>
+</div>
+</body>
+</html>
+2021-10-13 21:04:15,671 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 21:04:15,671 [main] INFO EmployessRestAPI - Status Line==>>1044
+2021-10-13 21:04:15,674 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 21:04:15,674 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 21:04:15,677 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 21:04:15,678 [main] INFO EmployessRestAPI - Status Code==>>405
+2021-10-13 21:04:15,681 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 21:04:15,682 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 405 Method Not Allowed
+2021-10-13 21:04:21,822 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 21:04:21,825 [main] INFO EmployessRestAPI - Status Line==>>text/html; charset=UTF-8
+2021-10-13 21:04:21,828 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 21:04:21,829 [main] INFO EmployessRestAPI - Response Body==>><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2021-10-13 21:04:21,832 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 21:04:21,832 [main] INFO EmployessRestAPI - Status Line==>>1119
+2021-10-13 21:04:21,834 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 21:04:21,835 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 21:04:21,837 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 21:04:21,838 [main] INFO EmployessRestAPI - Status Code==>>429
+2021-10-13 21:04:21,841 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 21:04:21,842 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 429 Too Many Requests
+2021-10-13 21:04:21,845 [main] INFO EmployessRestAPI - **********************Checking x-ezoic-cdn Type**********************
+2021-10-13 21:04:21,847 [main] INFO EmployessRestAPI - Status Line==>>Miss
+2021-10-13 21:04:21,856 [main] INFO EmployessRestAPI - **********************Started TC_001_GETMethod**********************
+2021-10-13 21:04:25,353 [main] INFO EmployessRestAPI - **********************Checking Content Type**********************
+2021-10-13 21:04:25,354 [main] INFO EmployessRestAPI - Status Line==>>application/json; charset=utf-8
+2021-10-13 21:04:25,357 [main] INFO EmployessRestAPI - **********************Checking Response Body**********************
+2021-10-13 21:04:25,358 [main] INFO EmployessRestAPI - Response Body==>>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+2021-10-13 21:04:25,361 [main] INFO EmployessRestAPI - **********************Checking Response Time**********************
+2021-10-13 21:04:25,362 [main] INFO EmployessRestAPI - Status Line==>>488
+2021-10-13 21:04:25,365 [main] INFO EmployessRestAPI - **********************Checking Server Type**********************
+2021-10-13 21:04:25,365 [main] INFO EmployessRestAPI - Status Line==>>cloudflare
+2021-10-13 21:04:25,367 [main] INFO EmployessRestAPI - **********************Checking Status Code**********************
+2021-10-13 21:04:25,368 [main] INFO EmployessRestAPI - Status Code==>>200
+2021-10-13 21:04:25,370 [main] INFO EmployessRestAPI - **********************Checking Status Line**********************
+2021-10-13 21:04:25,370 [main] INFO EmployessRestAPI - Status Line==>>HTTP/1.1 200 OK
+2021-10-13 21:04:25,372 [main] INFO EmployessRestAPI - **********************Checking x-powered-by Type**********************
+2021-10-13 21:04:25,372 [main] INFO EmployessRestAPI - Status Line==>>Express
+2021-10-13 21:04:25,373 [main] INFO EmployessRestAPI - **********************Finished TC_001_GETMethod**********************
